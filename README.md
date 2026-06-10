@@ -7,3 +7,7 @@
 - 内容：品牌策略、视觉研究、受控生成、主视觉、系列海报、20 秒动态广告与项目复盘
 
 网站内提供项目 PDF 与个人简历下载。
+
+公开访问：
+
+https://polancochris125-cell.github.io/yuefulan-aigc-portfolio/

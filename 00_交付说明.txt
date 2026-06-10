@@ -29,6 +29,9 @@
 - downloads/yuefulan-portfolio.pdf
 - assets/video/yuefulan-film.mp4
 
+公开作品集：
+https://polancochris125-cell.github.io/yuefulan-aigc-portfolio/
+
 个人信息：
 - 吴南南
 - 湖北大学知行学院 / 数字媒体艺术
