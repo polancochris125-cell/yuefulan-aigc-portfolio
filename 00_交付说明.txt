@@ -1,0 +1,42 @@
+悦芙兰交互作品集
+
+1. 本地预览
+   当前预览地址：http://127.0.0.1:4173
+   也可以直接打开 index.html，但通过本地服务器预览视频更稳定。
+
+2. 更新视频
+   将新版视频命名为 yuefulan-film.mp4，替换：
+   assets/video/yuefulan-film.mp4
+
+3. 发布网站
+   上传 index.html、styles.css、script.js、assets、downloads。
+   99_源素材归档仅用于保留制作源文件，不需要上传。
+
+4. 下载文件
+   downloads/yuefulan-portfolio.pdf
+   downloads/wu-nannan-resume.pdf
+悦芙兰 AIGC 视觉广告作品集
+
+公开网页文件：
+- index.html
+- styles.css
+- script.js
+- assets/
+- downloads/
+
+最终文件：
+- 悦芙兰_AIGC视觉广告作品集_吴南南.pdf
+- downloads/yuefulan-portfolio.pdf
+- assets/video/yuefulan-film.mp4
+
+个人信息：
+- 吴南南
+- 湖北大学知行学院 / 数字媒体艺术
+- 16608631023
+- 1064874656@qq.com
+
+本地预览：
+在项目目录启动静态服务器后访问 http://127.0.0.1:4173
+
+说明：
+99_源素材归档仅用于保存旧版本和原始素材，不参与公开发布。
